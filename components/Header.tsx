@@ -18,7 +18,7 @@ export default function Header() {
         <Link href="/home">
             <div className="w-auto px-4 py-1 flex space-x-2 items-center text-sm tracking-widest font-bold text-blue-900 bg-white shadow-sm shadow-blue-900 rounded-full cursor-pointer">
                <FcShop className="h-6 w-6"/>
-               <span>KUUKUA.STORE</span>
+               <span>ADCL STORE</span>
             </div>
         </Link>
         <div className="">

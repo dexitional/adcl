@@ -62,7 +62,7 @@ export default function Login() {
                     <form className="flex flex-col space-y-8">
                         <div className="px-4 py-1 flex space-x-2 items-center justify-center text-lg tracking-widest font-bold text-blue-900 bg-white shadow-sm shadow-blue-900 rounded-full">
                             <FcShop className="h-8 w-8"/>
-                            <span>KUUKUA.STORE</span>
+                            <span>ADCL STORE</span>
                         </div>
                         <div className="my-4">
                             <h4 className="text-md text-blue-900 font-verdana font-medium">Sign in to Kuukua POS</h4>
