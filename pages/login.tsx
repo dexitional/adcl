@@ -65,7 +65,7 @@ export default function Login() {
                             <span>ADCL STORE</span>
                         </div>
                         <div className="my-4">
-                            <h4 className="text-md text-blue-900 font-verdana font-medium">Sign in to Kuukua POS</h4>
+                            <h4 className="text-md text-blue-900 font-verdana font-medium">Sign in to ADCL POS</h4>
                         </div>
                         <div className="flex flex-col space-y-3">
                             { msg && (
