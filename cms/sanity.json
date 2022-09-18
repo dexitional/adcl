@@ -1,10 +1,10 @@
 {
   "root": true,
   "project": {
-    "name": "cms"
+    "name": "adclcms"
   },
   "api": {
-    "projectId": "23z0n4lu",
+    "projectId": "870sz47u",
     "dataset": "production"
   },
   "plugins": [
